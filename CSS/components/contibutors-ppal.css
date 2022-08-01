@@ -1,0 +1,16 @@
+.contributors-ppal {
+    display: flex;
+    font-family: "Press Start 2P", sans-serif;
+    color: #fff;
+    font-size: 25px;
+}
+
+.contributors-ppal .icon {
+    margin-right: 25px;
+}
+
+.contributors-ppal .space {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

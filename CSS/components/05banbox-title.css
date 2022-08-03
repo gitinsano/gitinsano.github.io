@@ -3,11 +3,12 @@
     font-size: 25px;
     color: #F25A70;
     text-shadow:4px 2px 0 #000;
+    padding-bottom: 20px;
 }
 
 .main-title.-second {
-color: #000;
-font-size: 40px;
+color:#000;
+font-size: 30px;
 text-shadow: none;
 text-align: center;
 }

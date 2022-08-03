@@ -1,11 +1,11 @@
 .banner {
     box-sizing:border-box;
-    height: 789px;
+    min-height: 800px;
     background-color: #5D1A93;
     background-image: url(../../assets/img/background01.jpg);
     background-size: 100%;
     background-repeat: no-repeat;  
-    border-bottom: 10px solid rgb(230, 194, 194);
+    border-bottom: 10px solid #000;
     padding-top: 120px;
     padding-left: 90px;    
 }

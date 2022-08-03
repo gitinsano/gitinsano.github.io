@@ -1,15 +1,15 @@
-.contributors-ppal {
+.skill-tec {
     display: flex;
     font-family: "Press Start 2P", sans-serif;
     color: #fff;
-    font-size: 25px;
+    font-size: 25px; 
 }
 
-.contributors-ppal .icon {
+.skill-tec .icon {
     margin-right: 25px;
 }
 
-.contributors-ppal .space {
+.skill-tec .right {
     display: flex;
     flex-direction: column;
     justify-content: space-around;

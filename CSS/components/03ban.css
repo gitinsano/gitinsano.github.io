@@ -1,4 +1,4 @@
-.banner {
+.ban {
     box-sizing:border-box;
     min-height: 800px;
     background-color: #5D1A93;
@@ -10,17 +10,17 @@
     padding-left: 90px;    
 }
 
-.banner .wrapper {
+.ban .wrapper {
     display: flex;
     flex-direction: column;
     width: 600px;
 }
 
-.banner .box {
+.ban .box {
     margin-bottom: 40px;
 }
 
-.banner .navigation {
+.ban .navigation {
     display: flex;
     justify-content: space-around;
 }
